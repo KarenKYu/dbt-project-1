@@ -1,0 +1,1 @@
+SELECT catid as id, catgroup as group, catname as name FROM category
